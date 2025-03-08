@@ -16,6 +16,11 @@
 
 I'm a student stepping into the software development world, exploring **Web Development** and **AI/ML** while building projects to sharpen my skills.
 
+## 🎮 GitHub Contribution Pong Game 🏓
+<p align="center">
+    <iframe src="https://Poornatejareddy.github.io/src/index.html" width="600" height="400"></iframe>
+</p>
+
 ## 🚀 Skills & Interests
 
 ### 🌐 Web Development (Still Learning... 🏗️)

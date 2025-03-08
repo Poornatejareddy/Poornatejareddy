@@ -51,34 +51,59 @@ I'm a student stepping into the software development world, exploring **Web Deve
 
 ---
 
-## 🎮 Fun Game: Click the dot! 🎯
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Click the Dot!</title>
-    <style>
-        #dot {
-            width: 20px;
-            height: 20px;
-            background-color: red;
-            border-radius: 50%;
-            position: absolute;
-        }
-    </style>
-    <script>
-        function moveDot() {
-            let dot = document.getElementById("dot");
-            dot.style.top = Math.random() * window.innerHeight + "px";
-            dot.style.left = Math.random() * window.innerWidth + "px";
-        }
-    </script>
-</head>
-<body onclick="moveDot()">
-    <div id="dot"></div>
-</body>
-</html>
+## 🚀 My Tech Journey Progress 📈
+<p align="center">
+    <img src="https://progress-bar.dev/40/?title=Web%20Development&width=200&color=5eb5f7">  
+    <img src="https://progress-bar.dev/30/?title=Machine%20Learning&width=200&color=f7a05e">  
+    <img src="https://progress-bar.dev/50/?title=Problem%20Solving&width=200&color=5ef77d">  
+</p>
+
+👣 *Track my progress as I improve in different areas of tech!*
+
+---
+
+## 🎲 Code Challenge of the Day 🎯
+💡 **Difficulty:** Beginner 🔰
+
+```python
+# Find the first non-repeating character in a string
+
+def first_unique_char(s):
+    char_count = {}
+    for char in s:
+        char_count[char] = char_count.get(char, 0) + 1
+    
+    for char in s:
+        if char_count[char] == 1:
+            return char
+    return None
+
+# Test it out!
+print(first_unique_char("swiss"))  # Expected output: 'w'
 ```
+
+💡 *Optimize it to run in O(n) time!* 🚀
+
+---
+
+## 🎯 Tech Quiz of the Day 📚
+🤔 **Question:** What does the following JavaScript code output?
+
+```js
+console.log(typeof NaN);
+```
+
+A) "number"  
+B) "undefined"  
+C) "NaN"  
+D) "string"  
+
+(Answer at the bottom of the page! ⬇️)
+
+---
+
+## 💡 Tech Quote of the Day 🌟
+🚀 *"The best way to predict the future is to invent it."* — Alan Kay
 
 ---
 
@@ -90,3 +115,7 @@ I'm a student stepping into the software development world, exploring **Web Deve
 
 ✨ *Always learning, always growing! Let's build something amazing together!* 🚀
 
+---
+
+### 🧠 Answer to Quiz: 
+**A) "number"** - In JavaScript, `NaN` is actually of type `number`! 💡

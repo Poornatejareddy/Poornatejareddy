@@ -20,7 +20,7 @@ I'm a student stepping into the software development world, exploring **Web Deve
 Click the image below to play the game!  
 
 <p align="center">
-    <a href="https://poornatejareddy.github.io/src/index.html" target="_blank">
+    <a href="https://poornatejareddy.github.io/ponggame/" target="_blank">
         <img src="https://user-images.githubusercontent.com/674621/71187859-22b64e80-2254-11ea-9b02-5922e163181a.gif" width="400" />
     </a>
 </p>

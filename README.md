@@ -21,7 +21,7 @@ Click the image below to play the game!
 
 <p align="center">
     <a href="https://poornatejareddy.github.io/ponggame/" target="_blank">
-        <img src="https://poornatejareddy.github.io/ponggame/" width="400" />
+        <img src="https://user-images.githubusercontent.com/2433219/94984423-03b57400-0509-11eb-91b0-974280cec0a2.png" width="400" />
     </a>
 </p>
 

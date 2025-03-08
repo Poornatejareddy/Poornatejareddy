@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/status-updating-brightgreen.svg">
-    <img src="https://img.shields.io/badge/Web_Dev-React,_Node,_MongoDB-blue">
-    <img src="https://img.shields.io/badge/AI/ML-Python,_Flask,_Pandas-orange">
+    <img src="https://img.shields.io/badge/status-learning-blue"> 
+    <img src="https://img.shields.io/badge/Web_Dev-React,_Node,_MongoDB-blue"> 
+    <img src="https://img.shields.io/badge/AI/ML-Python,_Flask,_Pandas-orange"> 
     <img src="https://img.shields.io/badge/Location-Bengaluru,%20India-red">
 </p>
 
@@ -11,32 +11,37 @@
 
 # 👋 Hi, I'm **Poorna Teja Reddy K**
 
-🎓 **Computer Science & Engineering (AIML) Student** | 💻 **Full-Stack Developer** | 🤖 **ML Enthusiast** | 🌍 **Based in Bengaluru, India**
+🎓 **Computer Science & Engineering (AIML) Student** | 🚀 **Aspiring Software Developer** | 🤖 **AI & Web Enthusiast**  
+🌱 **Constantly Learning New Technologies** | 🌍 **Based in Bengaluru, India**
 
-I'm passionate about **Web Development & AI**, building real-world projects, and constantly learning new technologies.
+I'm a student stepping into the software development world, exploring **Web Development** and **AI/ML** while building projects to sharpen my skills.
 
 ## 🚀 Skills & Interests
 
-### 🌐 Web Development  
+### 🌐 Web Development (Still Learning... 🏗️)
 🟢 HTML, CSS, JavaScript  
 🟢 React.js, Node.js, Express.js  
 🟢 MongoDB, MySQL  
-🟢 Git, GitHub, Docker  
+🟢 Git, GitHub
 
-### 🤖 AI & Machine Learning  
+### 🤖 AI & Machine Learning (Novice, but Excited! ⚡)
 🟠 Python, Pandas, NumPy  
-🟠 Machine Learning Algorithms  
-🟠 Flask for AI APIs  
+🟠 Learning Machine Learning Algorithms  
+🟠 Flask for AI APIs
 
-### 🏆 Professional & Soft Skills  
+### 💻 Programming Languages (Loading... ⏳)
+🔵 C, C++  
+🟢 JavaScript  
+🟠 Python  
+
+### 🏆 Soft Skills
 ✅ Problem Solving  
 ✅ Team Collaboration  
-✅ Project Management  
-✅ Continuous Learning  
+✅ Adaptability & Continuous Learning
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats (Loading... ⏳):
 <table>
     <tr>
         <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Poornatejareddy&show_icons=true&theme=radical" alt="GitHub Stats"/></td>
@@ -46,19 +51,42 @@ I'm passionate about **Web Development & AI**, building real-world projects, and
 
 ---
 
-## 🎮 Fun Game:
-🎯 **Challenge:** Click the dot without missing! Try it below! ⬇️
-
-<p align="center">
-    <a href="https://game-url.com" target="_blank">
-        <img src="https://img.shields.io/badge/Play%20a%20Game%20Now%21-blue?style=for-the-badge&logo=gamepad">
-    </a>
-</p>
+## 🎮 Fun Game: Click the dot! 🎯
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Click the Dot!</title>
+    <style>
+        #dot {
+            width: 20px;
+            height: 20px;
+            background-color: red;
+            border-radius: 50%;
+            position: absolute;
+        }
+    </style>
+    <script>
+        function moveDot() {
+            let dot = document.getElementById("dot");
+            dot.style.top = Math.random() * window.innerHeight + "px";
+            dot.style.left = Math.random() * window.innerWidth + "px";
+        }
+    </script>
+</head>
+<body onclick="moveDot()">
+    <div id="dot"></div>
+</body>
+</html>
+```
 
 ---
 
-### 📫 Connect with Me:
-🔗 GitHub: [Poornatejareddy](https://github.com/Poornatejareddy)  
-📧 Email: YourEmail@example.com  
-💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-🌐 Portfolio: [Your Portfolio](https://yourportfolio.com)  
+## 🌟 Let's Connect & Learn Together!
+🔗 **GitHub:** [Poornatejareddy](https://github.com/Poornatejareddy)  
+📧 **Email:** poornateja0079@gmail.com  
+💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/k-poorna-teja-reddy-401650200/)  
+🌐 **Portfolio:** [Coming Soon... ⏳]
+
+✨ *Always learning, always growing! Let's build something amazing together!* 🚀
+

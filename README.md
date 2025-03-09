@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Poornatejareddy/Poornatejareddy/main/src/header_.png" alt="Banner about Poorna Teja Reddy K">
+<img src="https://raw.githubusercontent.com/Poornatejareddy/Poornatejareddy/main/src/header.png" alt="Banner about Poorna Teja Reddy K">
 
 
 

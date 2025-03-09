@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/Poornatejareddy/Poornatejareddy/main/src/header_.png" alt="Banner about Poorna Teja Reddy K">
+
+
+
 <p align="center">
     <img src="https://img.shields.io/badge/status-learning-blue"> 
     <img src="https://img.shields.io/badge/Web_Dev-React,_Node,_MongoDB-blue"> 
@@ -28,21 +32,23 @@ Click the image below to play the game!
 
 ## 🚀 Skills & Interests
 
-### 🌐 Web Development (Still Learning... 🏗️)
-🟢 HTML, CSS, JavaScript  
-🟢 React.js, Node.js, Express.js  
-🟢 MongoDB, MySQL  
-🟢 Git, GitHub
+### 🌐 Web Development (Still Learning... 🚀)  
+✅ HTML, CSS, JavaScript  
+✅ React.js, Node.js, Express.js  
+✅ MongoDB, MySQL  
+✅ Git & GitHub  
 
-### 🤖 AI & Machine Learning (Novice, but Excited! ⚡)
-🟠 Python, Pandas, NumPy  
-🟠 Learning Machine Learning Algorithms  
-🟠 Flask for AI APIs
+### 🤖 AI & Machine Learning (Novice, but Super Excited! ⚡)  
+🟡 Python, Pandas, NumPy  
+🟡 Exploring Machine Learning Algorithms  
+🟡 Flask for AI-Powered APIs  
 
-### 💻 Programming Languages (Loading... ⏳)
-🔵 C, C++  
+### 💻 Programming Languages (Strengthening the Core 💪)  
 🟢 JavaScript  
-🟠 Python  
+🟡 Python  
+🟢 Java  
+🔵 C
+
 
 ### 🏆 Soft Skills
 ✅ Problem Solving  
@@ -61,12 +67,17 @@ Click the image below to play the game!
 
 ---
 
-## 🚀 My Tech Journey Progress 📈
-<p align="center">
-    <img src="https://geps.dev/progress/23?dangerColor=800000&warningColor=ff9900&successColor=006600"> <br/> 
-    <img src="https://geps.dev/progress/12?dangerColor=800000&warningColor=ff9900&successColor=006600"> <br/> 
-    <img src="https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600">  
-</p>
+## 🚀 My Tech Journey Progress 📈  
+
+### 🌐 Web Development (Beginner 🌱)  
+![Web Development](https://geps.dev/progress/30?dangerColor=800000&warningColor=ff9900&successColor=006600)  
+
+### 🤖 AI & Machine Learning (Beginner 🤖)  
+![AI & Machine Learning](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)  
+
+### 💻 Programming Languages (Beginner 💻)  
+![Programming Languages](https://geps.dev/progress/25?dangerColor=800000&warningColor=ff9900&successColor=006600)  
+
 
 👣 *Track my progress as I improve in different areas of tech!*
 

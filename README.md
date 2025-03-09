@@ -63,9 +63,9 @@ Click the image below to play the game!
 
 ## 🚀 My Tech Journey Progress 📈
 <p align="center">
-    <img src="https://progress-bar.dev/40/?title=Web%20Development&width=200&color=5eb5f7">  
-    <img src="https://progress-bar.dev/30/?title=Machine%20Learning&width=200&color=f7a05e">  
-    <img src="https://progress-bar.dev/50/?title=Problem%20Solving&width=200&color=5ef77d">  
+    <img src="https://geps.dev/progress/23?dangerColor=800000&warningColor=ff9900&successColor=006600">  
+    <img src="https://geps.dev/progress/12?dangerColor=800000&warningColor=ff9900&successColor=006600">  
+    <img src="https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600">  
 </p>
 
 👣 *Track my progress as I improve in different areas of tech!*

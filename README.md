@@ -63,8 +63,8 @@ Click the image below to play the game!
 
 ## 🚀 My Tech Journey Progress 📈
 <p align="center">
-    <img src="https://geps.dev/progress/23?dangerColor=800000&warningColor=ff9900&successColor=006600">  
-    <img src="https://geps.dev/progress/12?dangerColor=800000&warningColor=ff9900&successColor=006600">  
+    <img src="https://geps.dev/progress/23?dangerColor=800000&warningColor=ff9900&successColor=006600"> <br/> 
+    <img src="https://geps.dev/progress/12?dangerColor=800000&warningColor=ff9900&successColor=006600"> <br/> 
     <img src="https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600">  
 </p>
 
